@@ -4,8 +4,8 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://punitsharma32112.github.io/Healthcl/"Health Plus")
-- **Framework**: React.js
+- **Website**: [Health Plus]([)
+- **Framework**: React.js](https://punitsharma32112.github.io/Healthcl/)
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
 
